@@ -1,0 +1,226 @@
+2020-07-28 14:21:30,278 [main] INFO Default test - Inside constructor
+2020-07-28 14:24:42,027 [main] INFO Default test - Inside constructor
+2020-07-28 14:26:03,484 [main] INFO Default test - Inside constructor
+2020-07-28 14:44:39,111 [main] INFO Default test - Inside constructor
+2020-07-28 14:48:48,369 [main] INFO Default test - Inside constructor
+2020-07-28 14:52:00,619 [main] INFO Default test - Inside constructor
+2020-07-28 14:52:11,551 [main] INFO Add_Customer - User Id entered
+2020-07-28 15:21:48,854 [main] INFO Default test - Inside constructor
+2020-07-28 15:21:59,586 [main] INFO Add_Customer - User Id entered
+2020-07-28 15:23:22,881 [main] INFO Default test - Inside constructor
+2020-07-28 15:23:32,655 [main] INFO Add_Customer - User Id entered
+2020-07-28 15:27:34,120 [main] INFO Default test - Inside constructor
+2020-07-28 15:31:02,394 [main] INFO Default test - Inside constructor
+2020-07-28 15:31:12,930 [main] INFO Add_Customer - User Id entered
+2020-07-28 15:31:12,933 [main] INFO Add_Customer - Abot o rnter password
+2020-07-28 15:35:05,651 [main] INFO Default test - Inside constructor
+2020-07-28 15:35:15,135 [main] INFO Add_Customer - User Id entered
+2020-07-28 15:35:15,137 [main] INFO Add_Customer - Abot o rnter password
+2020-07-28 15:35:15,490 [main] INFO Add_Customer - Pasword entered
+2020-07-28 15:35:22,753 [main] INFO Add_Customer - Logon button Clicked
+2020-07-28 15:35:23,193 [main] INFO Add_Customer - customer link clicked
+2020-07-28 15:35:28,610 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-28 15:35:31,280 [main] INFO Add_Customer - Add button clicked
+2020-07-28 15:35:31,669 [main] INFO Add_Customer - Email Id given
+2020-07-28 15:35:31,948 [main] INFO Add_Customer - Name given
+2020-07-28 15:35:35,060 [main] INFO Add_Customer - Save button clicked
+2020-07-29 15:14:12,305 [main] INFO Default test - Inside constructor
+2020-07-29 15:16:22,727 [main] INFO Default test - Inside constructor
+2020-07-29 15:16:34,124 [main] INFO Add_Customer - User Id entered
+2020-07-29 15:16:34,125 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 15:16:34,407 [main] INFO Add_Customer - Pasword entered
+2020-07-29 15:16:43,951 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 15:16:44,773 [main] INFO Add_Customer - customer link clicked
+2020-07-29 15:16:47,367 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 15:16:49,565 [main] INFO Add_Customer - Add button clicked
+2020-07-29 15:16:50,062 [main] INFO Add_Customer - Email Id given
+2020-07-29 15:16:50,377 [main] INFO Add_Customer - Name given
+2020-07-29 15:16:55,504 [main] INFO Add_Customer - Save button clicked
+2020-07-29 15:21:38,048 [main] INFO Default test - Inside constructor
+2020-07-29 15:21:47,737 [main] INFO Add_Customer - User Id entered
+2020-07-29 15:21:47,739 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 15:21:48,075 [main] INFO Add_Customer - Pasword entered
+2020-07-29 15:21:56,041 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 15:21:57,026 [main] INFO Add_Customer - customer link clicked
+2020-07-29 15:22:05,084 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 15:22:09,443 [main] INFO Add_Customer - Add button clicked
+2020-07-29 15:22:09,815 [main] INFO Add_Customer - Email Id given
+2020-07-29 15:22:10,130 [main] INFO Add_Customer - Name given
+2020-07-29 15:22:13,916 [main] INFO Add_Customer - Save button clicked
+2020-07-29 15:57:01,247 [main] INFO Test - Inside constructor
+2020-07-29 15:57:12,938 [main] INFO Add_Customer - User Id entered
+2020-07-29 15:57:12,940 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 15:57:13,305 [main] INFO Add_Customer - Pasword entered
+2020-07-29 15:57:21,402 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 15:57:22,438 [main] INFO Add_Customer - customer link clicked
+2020-07-29 15:57:29,859 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 15:57:33,115 [main] INFO Add_Customer - Add button clicked
+2020-07-29 15:57:33,455 [main] INFO Add_Customer - Email Id given
+2020-07-29 15:57:33,716 [main] INFO Add_Customer - Name given
+2020-07-29 15:57:37,882 [main] INFO Add_Customer - Save button clicked
+2020-07-29 15:57:38,308 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-07-29 16:03:04,823 [main] INFO Test - Inside constructor
+2020-07-29 16:03:21,365 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:03:21,367 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:03:21,674 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:03:40,684 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:03:41,610 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:03:46,930 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:03:49,480 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:03:49,832 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:03:50,159 [main] INFO Add_Customer - Name given
+2020-07-29 16:03:52,968 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:03:53,266 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-07-29 16:14:04,839 [main] INFO Default test - Inside constructor
+2020-07-29 16:14:16,154 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:14:16,156 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:14:16,442 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:14:23,643 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:14:24,455 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:14:32,764 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:14:35,134 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:14:35,475 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:14:35,765 [main] INFO Add_Customer - Name given
+2020-07-29 16:14:38,219 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:14:38,470 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-07-29 16:17:46,569 [main] INFO Default test - Inside constructor
+2020-07-29 16:17:57,585 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:17:57,588 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:17:57,948 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:18:07,711 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:18:08,509 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:18:13,075 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:18:15,360 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:18:15,748 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:18:16,017 [main] INFO Add_Customer - Name given
+2020-07-29 16:18:18,669 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:19:13,127 [main] INFO Test - Inside constructor
+2020-07-29 16:19:24,455 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:19:24,458 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:19:24,784 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:19:33,185 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:19:34,078 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:19:42,286 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:19:44,784 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:19:45,112 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:19:45,394 [main] INFO Add_Customer - Name given
+2020-07-29 16:19:48,634 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:19:48,955 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-07-29 16:21:57,749 [main] INFO Default test - Inside constructor
+2020-07-29 16:22:08,906 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:22:08,908 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:22:09,219 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:22:19,981 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:22:20,788 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:22:30,171 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:22:33,373 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:22:33,730 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:22:33,986 [main] INFO Add_Customer - Name given
+2020-07-29 16:22:37,060 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:22:37,358 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-07-29 16:28:31,072 [main] INFO Default test - Inside constructor
+2020-07-29 16:28:41,700 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:28:41,702 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:28:42,005 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:28:50,031 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:28:50,916 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:28:57,122 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:29:01,008 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:29:01,319 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:29:01,600 [main] INFO Add_Customer - Name given
+2020-07-29 16:29:04,126 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:29:04,365 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-07-29 16:30:27,674 [main] INFO Test - Inside constructor
+2020-07-29 16:30:37,819 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:30:37,821 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:30:38,148 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:30:45,528 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:30:46,423 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:30:55,618 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:30:58,719 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:30:59,128 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:30:59,391 [main] INFO Add_Customer - Name given
+2020-07-29 16:31:02,266 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:31:02,600 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-07-29 16:38:04,040 [main] INFO Default test - Inside constructor
+2020-07-29 16:38:12,515 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:38:12,518 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:38:12,843 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:38:25,616 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:38:26,463 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:38:35,632 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:38:39,381 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:38:39,764 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:38:40,057 [main] INFO Add_Customer - Name given
+2020-07-29 16:38:43,792 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:38:44,075 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-07-29 16:44:19,771 [main] INFO Test - Inside constructor
+2020-07-29 16:44:30,586 [main] INFO Add_Customer - User Id entered
+2020-07-29 16:44:30,588 [main] INFO Add_Customer - Abot o rnter password
+2020-07-29 16:44:30,891 [main] INFO Add_Customer - Pasword entered
+2020-07-29 16:44:42,307 [main] INFO Add_Customer - Logon button Clicked
+2020-07-29 16:44:43,238 [main] INFO Add_Customer - customer link clicked
+2020-07-29 16:44:48,070 [main] INFO Add_Customer - Sub-customer link clicked
+2020-07-29 16:44:50,368 [main] INFO Add_Customer - Add button clicked
+2020-07-29 16:44:50,713 [main] INFO Add_Customer - Email Id given
+2020-07-29 16:44:50,964 [main] INFO Add_Customer - Name given
+2020-07-29 16:44:54,154 [main] INFO Add_Customer - Save button clicked
+2020-07-29 16:44:54,467 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-09-19 14:13:38,352 [main] INFO Test - Inside constructor
+2020-09-19 14:14:33,559 [main] INFO Add_Customer - User Id entered
+2020-09-19 14:14:33,563 [main] INFO Add_Customer - Abot o rnter password
+2020-09-19 14:14:33,848 [main] INFO Add_Customer - Pasword entered
+2020-09-19 14:14:55,578 [main] INFO Add_Customer - Logon button Clicked
+2020-09-19 14:14:56,673 [main] INFO Add_Customer - customer link clicked
+2020-09-19 14:15:07,746 [main] INFO Add_Customer - Sub-customer link clicked
+2020-09-19 14:15:10,476 [main] INFO Add_Customer - Add button clicked
+2020-09-19 14:15:10,855 [main] INFO Add_Customer - Email Id given
+2020-09-19 14:15:11,118 [main] INFO Add_Customer - Name given
+2020-09-19 14:15:14,292 [main] INFO Add_Customer - Save button clicked
+2020-09-19 14:17:18,561 [main] INFO Test - Inside constructor
+2020-09-19 14:17:30,195 [main] INFO Add_Customer - User Id entered
+2020-09-19 14:17:30,197 [main] INFO Add_Customer - Abot o rnter password
+2020-09-19 14:17:30,528 [main] INFO Add_Customer - Pasword entered
+2020-09-19 14:18:09,859 [main] INFO Add_Customer - Logon button Clicked
+2020-09-19 14:18:10,633 [main] INFO Add_Customer - customer link clicked
+2020-09-19 14:18:32,778 [main] INFO Add_Customer - Sub-customer link clicked
+2020-09-19 14:18:40,357 [main] INFO Add_Customer - Add button clicked
+2020-09-19 14:18:40,644 [main] INFO Add_Customer - Email Id given
+2020-09-19 14:18:40,894 [main] INFO Add_Customer - Name given
+2020-09-19 14:18:44,364 [main] INFO Add_Customer - Save button clicked
+2020-09-19 14:59:30,065 [main] INFO Test - Inside constructor
+2020-09-19 14:59:39,336 [main] INFO Add_Customer - User Id entered
+2020-09-19 14:59:39,337 [main] INFO Add_Customer - Abot o rnter password
+2020-09-19 14:59:39,696 [main] INFO Add_Customer - Pasword entered
+2020-09-19 14:59:49,303 [main] INFO Add_Customer - Logon button Clicked
+2020-09-19 14:59:50,286 [main] INFO Add_Customer - customer link clicked
+2020-09-19 14:59:55,773 [main] INFO Add_Customer - Sub-customer link clicked
+2020-09-19 14:59:58,007 [main] INFO Add_Customer - Add button clicked
+2020-09-19 14:59:58,375 [main] INFO Add_Customer - Email Id given
+2020-09-19 14:59:58,652 [main] INFO Add_Customer - Name given
+2020-09-19 15:00:03,106 [main] INFO Add_Customer - Save button clicked
+2020-09-19 15:00:03,356 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-09-19 15:05:59,095 [main] INFO Test - Inside constructor
+2020-09-19 15:06:09,263 [main] INFO Add_Customer - User Id entered
+2020-09-19 15:06:09,265 [main] INFO Add_Customer - Abot o rnter password
+2020-09-19 15:06:09,509 [main] INFO Add_Customer - Pasword entered
+2020-09-19 15:06:31,134 [main] INFO Add_Customer - Logon button Clicked
+2020-09-19 15:06:31,896 [main] INFO Add_Customer - customer link clicked
+2020-09-19 15:06:39,146 [main] INFO Add_Customer - Sub-customer link clicked
+2020-09-19 15:06:41,061 [main] INFO Add_Customer - Add button clicked
+2020-09-19 15:06:41,413 [main] INFO Add_Customer - Email Id given
+2020-09-19 15:06:41,652 [main] INFO Add_Customer - Name given
+2020-09-19 15:06:43,912 [main] INFO Add_Customer - Save button clicked
+2020-09-19 15:06:44,146 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered
+2020-09-19 15:16:30,383 [main] INFO Test - Inside constructor
+2020-09-19 15:16:42,335 [main] INFO Add_Customer - User Id entered
+2020-09-19 15:16:42,336 [main] INFO Add_Customer - Abot o rnter password
+2020-09-19 15:16:42,615 [main] INFO Add_Customer - Pasword entered
+2020-09-19 15:16:54,203 [main] INFO Add_Customer - Logon button Clicked
+2020-09-19 15:16:55,197 [main] INFO Add_Customer - customer link clicked
+2020-09-19 15:16:58,363 [main] INFO Add_Customer - Sub-customer link clicked
+2020-09-19 15:17:00,608 [main] INFO Add_Customer - Add button clicked
+2020-09-19 15:17:00,945 [main] INFO Add_Customer - Email Id given
+2020-09-19 15:17:01,158 [main] INFO Add_Customer - Name given
+2020-09-19 15:17:04,212 [main] INFO Add_Customer - Save button clicked
+2020-09-19 15:17:04,519 [main] INFO Add_Customer - Testcase failed.Reason:Email is already registered

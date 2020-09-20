@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 43.806 s <<< FAILURE! - in TestSuite
+testcases.Add_Customer.add_cust  Time elapsed: 9.562 s  <<< FAILURE!
+junit.framework.AssertionFailedError: Email is already registered
+	at testcases.Add_Customer.add_cust(Add_Customer.java:27)
+
